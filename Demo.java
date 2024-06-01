@@ -18,7 +18,7 @@ class Computer
 }
 
 
-class Hello{
+class Demo{
     public static void main(String args[])
     {
         Computer comp = new Computer();
